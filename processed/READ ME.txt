@@ -1,0 +1,6 @@
+
+
+
+These 2 files are used to train the RNN models.
+
+The files were created by aggregating all the raw text files from the "technology" and "sports" category
